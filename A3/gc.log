@@ -1,0 +1,285 @@
+
+~~~~~~~~~~~About to run mark_and_sweep~~~~~~~~~~~
+Number of mem_chunk's that are allocated: 42
+
+About to free memory at 0x6c4890
+About to free mem_chunk at 0x6c48b0
+About to free memory at 0x6c4710
+About to free mem_chunk at 0x6c4730
+About to free memory at 0x6c46d0
+About to free mem_chunk at 0x6c46f0
+About to free memory at 0x6c4690
+About to free mem_chunk at 0x6c46b0
+
+Number of nodes that were freed: 4
+Number of mem_chunk's that were freed: 4
+Number of mem_chunk's that remain: 38
+
+	mem_chunk 0 is at 0x6c4cb0 
+	It points to 0x6c4c90 
+	mem_chunk 1 is at 0x6c4c70 
+	It points to 0x6c4c50 
+	mem_chunk 2 is at 0x6c4c30 
+	It points to 0x6c4c10 
+	mem_chunk 3 is at 0x6c4bf0 
+	It points to 0x6c4bd0 
+	mem_chunk 4 is at 0x6c4bb0 
+	It points to 0x6c4b90 
+	mem_chunk 5 is at 0x6c4b70 
+	It points to 0x6c4b50 
+	mem_chunk 6 is at 0x6c4b30 
+	It points to 0x6c4b10 
+	mem_chunk 7 is at 0x6c4af0 
+	It points to 0x6c4ad0 
+	mem_chunk 8 is at 0x6c4ab0 
+	It points to 0x6c4a90 
+	mem_chunk 9 is at 0x6c4a70 
+	It points to 0x6c4a50 
+	mem_chunk 10 is at 0x6c4a30 
+	It points to 0x6c4a10 
+	mem_chunk 11 is at 0x6c49f0 
+	It points to 0x6c49d0 
+	mem_chunk 12 is at 0x6c49b0 
+	It points to 0x6c4990 
+	mem_chunk 13 is at 0x6c4970 
+	It points to 0x6c4950 
+	mem_chunk 14 is at 0x6c4930 
+	It points to 0x6c4910 
+	mem_chunk 15 is at 0x6c48f0 
+	It points to 0x6c48d0 
+	mem_chunk 16 is at 0x6c4870 
+	It points to 0x6c4850 
+	mem_chunk 17 is at 0x6c4830 
+	It points to 0x6c4810 
+	mem_chunk 18 is at 0x6c47f0 
+	It points to 0x6c47d0 
+	mem_chunk 19 is at 0x6c47b0 
+	It points to 0x6c4790 
+	mem_chunk 20 is at 0x6c4770 
+	It points to 0x6c4750 
+	mem_chunk 21 is at 0x6c4670 
+	It points to 0x6c4650 
+	mem_chunk 22 is at 0x6c4630 
+	It points to 0x6c4610 
+	mem_chunk 23 is at 0x6c45f0 
+	It points to 0x6c45d0 
+	mem_chunk 24 is at 0x6c45b0 
+	It points to 0x6c4590 
+	mem_chunk 25 is at 0x6c4570 
+	It points to 0x6c4550 
+	mem_chunk 26 is at 0x6c4530 
+	It points to 0x6c4510 
+	mem_chunk 27 is at 0x6c44f0 
+	It points to 0x6c44d0 
+	mem_chunk 28 is at 0x6c44b0 
+	It points to 0x6c4490 
+	mem_chunk 29 is at 0x6c4470 
+	It points to 0x6c4450 
+	mem_chunk 30 is at 0x6c4430 
+	It points to 0x6c4410 
+	mem_chunk 31 is at 0x6c43f0 
+	It points to 0x6c43d0 
+	mem_chunk 32 is at 0x6c43b0 
+	It points to 0x6c4390 
+	mem_chunk 33 is at 0x6c4370 
+	It points to 0x6c4350 
+	mem_chunk 34 is at 0x6c4330 
+	It points to 0x6c4310 
+	mem_chunk 35 is at 0x6c42f0 
+	It points to 0x6c42d0 
+	mem_chunk 36 is at 0x6c4070 
+	It points to 0x6c4050 
+	mem_chunk 37 is at 0x6c4030 
+	It points to 0x6c4010 
+
+~~~~~~~~~~~~~~~~FINISHED SWEEPING~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~About to run mark_and_sweep~~~~~~~~~~~
+Number of mem_chunk's that are allocated: 42
+
+About to free memory at 0x190e890
+About to free mem_chunk at 0x190e8b0
+About to free memory at 0x190e710
+About to free mem_chunk at 0x190e730
+About to free memory at 0x190e6d0
+About to free mem_chunk at 0x190e6f0
+About to free memory at 0x190e690
+About to free mem_chunk at 0x190e6b0
+
+Number of nodes that were freed: 4
+Number of mem_chunk's that were freed: 4
+Number of mem_chunk's that remain: 38
+
+	mem_chunk 0 is at 0x190ecb0 
+	It points to 0x190ec90 
+	mem_chunk 1 is at 0x190ec70 
+	It points to 0x190ec50 
+	mem_chunk 2 is at 0x190ec30 
+	It points to 0x190ec10 
+	mem_chunk 3 is at 0x190ebf0 
+	It points to 0x190ebd0 
+	mem_chunk 4 is at 0x190ebb0 
+	It points to 0x190eb90 
+	mem_chunk 5 is at 0x190eb70 
+	It points to 0x190eb50 
+	mem_chunk 6 is at 0x190eb30 
+	It points to 0x190eb10 
+	mem_chunk 7 is at 0x190eaf0 
+	It points to 0x190ead0 
+	mem_chunk 8 is at 0x190eab0 
+	It points to 0x190ea90 
+	mem_chunk 9 is at 0x190ea70 
+	It points to 0x190ea50 
+	mem_chunk 10 is at 0x190ea30 
+	It points to 0x190ea10 
+	mem_chunk 11 is at 0x190e9f0 
+	It points to 0x190e9d0 
+	mem_chunk 12 is at 0x190e9b0 
+	It points to 0x190e990 
+	mem_chunk 13 is at 0x190e970 
+	It points to 0x190e950 
+	mem_chunk 14 is at 0x190e930 
+	It points to 0x190e910 
+	mem_chunk 15 is at 0x190e8f0 
+	It points to 0x190e8d0 
+	mem_chunk 16 is at 0x190e870 
+	It points to 0x190e850 
+	mem_chunk 17 is at 0x190e830 
+	It points to 0x190e810 
+	mem_chunk 18 is at 0x190e7f0 
+	It points to 0x190e7d0 
+	mem_chunk 19 is at 0x190e7b0 
+	It points to 0x190e790 
+	mem_chunk 20 is at 0x190e770 
+	It points to 0x190e750 
+	mem_chunk 21 is at 0x190e670 
+	It points to 0x190e650 
+	mem_chunk 22 is at 0x190e630 
+	It points to 0x190e610 
+	mem_chunk 23 is at 0x190e5f0 
+	It points to 0x190e5d0 
+	mem_chunk 24 is at 0x190e5b0 
+	It points to 0x190e590 
+	mem_chunk 25 is at 0x190e570 
+	It points to 0x190e550 
+	mem_chunk 26 is at 0x190e530 
+	It points to 0x190e510 
+	mem_chunk 27 is at 0x190e4f0 
+	It points to 0x190e4d0 
+	mem_chunk 28 is at 0x190e4b0 
+	It points to 0x190e490 
+	mem_chunk 29 is at 0x190e470 
+	It points to 0x190e450 
+	mem_chunk 30 is at 0x190e430 
+	It points to 0x190e410 
+	mem_chunk 31 is at 0x190e3f0 
+	It points to 0x190e3d0 
+	mem_chunk 32 is at 0x190e3b0 
+	It points to 0x190e390 
+	mem_chunk 33 is at 0x190e370 
+	It points to 0x190e350 
+	mem_chunk 34 is at 0x190e330 
+	It points to 0x190e310 
+	mem_chunk 35 is at 0x190e2f0 
+	It points to 0x190e2d0 
+	mem_chunk 36 is at 0x190e070 
+	It points to 0x190e050 
+	mem_chunk 37 is at 0x190e030 
+	It points to 0x190e010 
+
+~~~~~~~~~~~~~~~~FINISHED SWEEPING~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~About to run mark_and_sweep~~~~~~~~~~~
+Number of mem_chunk's that are allocated: 42
+
+About to free memory at 0x80a890
+About to free mem_chunk at 0x80a8b0
+About to free memory at 0x80a710
+About to free mem_chunk at 0x80a730
+About to free memory at 0x80a6d0
+About to free mem_chunk at 0x80a6f0
+About to free memory at 0x80a690
+About to free mem_chunk at 0x80a6b0
+
+Number of nodes that were freed: 4
+Number of mem_chunk's that were freed: 4
+Number of mem_chunk's that remain: 38
+
+	mem_chunk 0 is at 0x80acb0 
+	It points to 0x80ac90 
+	mem_chunk 1 is at 0x80ac70 
+	It points to 0x80ac50 
+	mem_chunk 2 is at 0x80ac30 
+	It points to 0x80ac10 
+	mem_chunk 3 is at 0x80abf0 
+	It points to 0x80abd0 
+	mem_chunk 4 is at 0x80abb0 
+	It points to 0x80ab90 
+	mem_chunk 5 is at 0x80ab70 
+	It points to 0x80ab50 
+	mem_chunk 6 is at 0x80ab30 
+	It points to 0x80ab10 
+	mem_chunk 7 is at 0x80aaf0 
+	It points to 0x80aad0 
+	mem_chunk 8 is at 0x80aab0 
+	It points to 0x80aa90 
+	mem_chunk 9 is at 0x80aa70 
+	It points to 0x80aa50 
+	mem_chunk 10 is at 0x80aa30 
+	It points to 0x80aa10 
+	mem_chunk 11 is at 0x80a9f0 
+	It points to 0x80a9d0 
+	mem_chunk 12 is at 0x80a9b0 
+	It points to 0x80a990 
+	mem_chunk 13 is at 0x80a970 
+	It points to 0x80a950 
+	mem_chunk 14 is at 0x80a930 
+	It points to 0x80a910 
+	mem_chunk 15 is at 0x80a8f0 
+	It points to 0x80a8d0 
+	mem_chunk 16 is at 0x80a870 
+	It points to 0x80a850 
+	mem_chunk 17 is at 0x80a830 
+	It points to 0x80a810 
+	mem_chunk 18 is at 0x80a7f0 
+	It points to 0x80a7d0 
+	mem_chunk 19 is at 0x80a7b0 
+	It points to 0x80a790 
+	mem_chunk 20 is at 0x80a770 
+	It points to 0x80a750 
+	mem_chunk 21 is at 0x80a670 
+	It points to 0x80a650 
+	mem_chunk 22 is at 0x80a630 
+	It points to 0x80a610 
+	mem_chunk 23 is at 0x80a5f0 
+	It points to 0x80a5d0 
+	mem_chunk 24 is at 0x80a5b0 
+	It points to 0x80a590 
+	mem_chunk 25 is at 0x80a570 
+	It points to 0x80a550 
+	mem_chunk 26 is at 0x80a530 
+	It points to 0x80a510 
+	mem_chunk 27 is at 0x80a4f0 
+	It points to 0x80a4d0 
+	mem_chunk 28 is at 0x80a4b0 
+	It points to 0x80a490 
+	mem_chunk 29 is at 0x80a470 
+	It points to 0x80a450 
+	mem_chunk 30 is at 0x80a430 
+	It points to 0x80a410 
+	mem_chunk 31 is at 0x80a3f0 
+	It points to 0x80a3d0 
+	mem_chunk 32 is at 0x80a3b0 
+	It points to 0x80a390 
+	mem_chunk 33 is at 0x80a370 
+	It points to 0x80a350 
+	mem_chunk 34 is at 0x80a330 
+	It points to 0x80a310 
+	mem_chunk 35 is at 0x80a2f0 
+	It points to 0x80a2d0 
+	mem_chunk 36 is at 0x80a070 
+	It points to 0x80a050 
+	mem_chunk 37 is at 0x80a030 
+	It points to 0x80a010 
+
+~~~~~~~~~~~~~~~~FINISHED SWEEPING~~~~~~~~~~~~~~~~
